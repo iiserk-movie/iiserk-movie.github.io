@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://example.org/tags/liberty/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://example.org/tags/surveillance/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/language-perfect/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/loyalty/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/sanity-not-statistical/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/destruction-of-words/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/controls-the-past/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/about/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/pages/</loc>
   </url>
 </urlset>

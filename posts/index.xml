@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>You don&#39;t start out writing good stuff on My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content in You don&#39;t start out writing good stuff on My New Hugo Site</description>
+    <title>Blog on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The revolution will be complete when the language is perfect</title>
       <link>https://example.org/posts/language-perfect/</link>
@@ -35,13 +35,6 @@
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://example.org/posts/controls-the-past/</guid>
       <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.&#xA;Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://example.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
-      <description>Contra vagos Lorem markdownum notam si lintea meque certa en meumque illis, diu fatigant, nec praedae concustodita arcet. Paviunt castris cur errat ventis causa! Silvas sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.&#xA;Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.</description>
     </item>
   </channel>
 </rss>
