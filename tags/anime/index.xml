@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anime on IKMC</title>
+    <link>https://iiserk-movie.github.io/tags/anime/</link>
+    <description>Recent content in Anime on IKMC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://iiserk-movie.github.io/tags/anime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review: Summer Wars</title>
+      <link>https://iiserk-movie.github.io/posts/review-summer-wars/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/posts/review-summer-wars/</guid>
+      <description>“Never turn your back on family, especially when they hurt you”&#xA;Summer Wars, is practically speaking, not the first movie that comes to mind when one thinks of director Mamoru Hosoda, especially when there’s The Girl Who Leapt Through Time. But in many ways Summer Wars crosses conventional stereotypes of animated movies to deliver a unique perspective to Japan’s family life and how a society deeply rooted into its history transitions into the modern world.</description>
+    </item>
+  </channel>
+</rss>

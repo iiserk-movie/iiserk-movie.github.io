@@ -29,5 +29,12 @@
       <guid>https://iiserk-movie.github.io/tags/hollywood/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Anime</title>
+      <link>https://iiserk-movie.github.io/tags/anime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/anime/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
