@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iiserk-movie.github.io/announcements/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <loc>https://iiserk-movie.github.io/tags/bollywood/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iiserk-movie.github.io/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iiserk-movie.github.io/posts/on-orange-bars-relationships-thappad/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iiserk-movie.github.io/tags/review/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iiserk-movie.github.io/tags/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iiserk-movie.github.io/posts/cat-sticks-2019-a-chiaroscuro-of-love-and-loneliness/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iiserk-movie.github.io/tags/hollywood/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iiserk-movie.github.io/announcements/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iiserk-movie.github.io/movielists/</loc>
@@ -20,14 +38,10 @@
     <loc>https://iiserk-movie.github.io/uncategorized/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iiserk-movie.github.io/posts/on-orange-bars-relationships-thappad/</loc>
-  </url><url>
     <loc>https://iiserk-movie.github.io/about/</loc>
   </url><url>
     <loc>https://iiserk-movie.github.io/categories/</loc>
   </url><url>
     <loc>https://iiserk-movie.github.io/pages/</loc>
-  </url><url>
-    <loc>https://iiserk-movie.github.io/tags/</loc>
   </url>
 </urlset>
