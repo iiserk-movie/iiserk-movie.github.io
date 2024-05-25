@@ -36,5 +36,40 @@
       <guid>https://iiserk-movie.github.io/tags/anime/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Blog</title>
+      <link>https://iiserk-movie.github.io/tags/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bengali</title>
+      <link>https://iiserk-movie.github.io/tags/bengali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/bengali/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marvel</title>
+      <link>https://iiserk-movie.github.io/tags/marvel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/marvel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TV</title>
+      <link>https://iiserk-movie.github.io/tags/tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/tv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asian-Cinema</title>
+      <link>https://iiserk-movie.github.io/tags/asian-cinema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/asian-cinema/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on IKMC</title>
+    <link>https://iiserk-movie.github.io/tags/blog/</link>
+    <description>Recent content in Blog on IKMC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://iiserk-movie.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art and the artist: a cinematic viewpoint</title>
+      <link>https://iiserk-movie.github.io/posts/art-and-the-artist-a-cinematic-viewpoint/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/posts/art-and-the-artist-a-cinematic-viewpoint/</guid>
+      <description>In view of his recent death, I remembered how Bernardo Bertolucci admitted to have shot the infamous unscripted rape scene in Last Tango in Paris with Marlon Brando and Maria Schneider, the latter being kept completely in the dark about the scene because Bertolucci wanted to capture her reaction “as a girl, not as an actress”. Schneider took to drug abuse and depression surrounding the controversy that built for several years around the film, and died in 2011.</description>
+    </item>
+  </channel>
+</rss>
