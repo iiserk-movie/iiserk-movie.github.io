@@ -244,7 +244,7 @@ ul {
     @media (min-width: 767px) {
       .intro h1 {
         width: 80%;
-        font-size: 72px;
+        font-size: 75px;
         line-height: 94px;
         margin-bottom: 50px; } }
     .intro h1 strong {
@@ -294,7 +294,7 @@ ul {
     @media (min-width: 767px) {
       .summary .summary-title {
         width: 80%;
-        font-size: 52px;
+        font-size: 42px;
         line-height: 58px; } }
   .summary .summary-description {
     width: 80%;
@@ -801,7 +801,7 @@ body {
       padding: 50px; } }
   body.frame {
     min-height: 100vh;
-    border: 18px solid var(--highlight-color); }
+    border: 8px solid var(--highlight-color); }
 
 .wrapper {
   max-width: 1000px;
