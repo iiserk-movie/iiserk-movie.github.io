@@ -239,7 +239,8 @@ ul {
     font-size: 48px;
     line-height: 56px;
     margin-top: 0;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    overflow-wrap: break-word; }
     @media (min-width: 767px) {
       .intro h1 {
         width: 80%;
