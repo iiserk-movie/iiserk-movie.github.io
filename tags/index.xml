@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Uncategorized</title>
+      <link>https://iiserk-movie.github.io/tags/uncategorized/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/uncategorized/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Hollywood</title>
       <link>https://iiserk-movie.github.io/tags/hollywood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,6 +76,41 @@
       <link>https://iiserk-movie.github.io/tags/asian-cinema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://iiserk-movie.github.io/tags/asian-cinema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>European-Cinema</title>
+      <link>https://iiserk-movie.github.io/tags/european-cinema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/european-cinema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vintage</title>
+      <link>https://iiserk-movie.github.io/tags/vintage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/vintage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horror</title>
+      <link>https://iiserk-movie.github.io/tags/horror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/horror/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Watch-List</title>
+      <link>https://iiserk-movie.github.io/tags/watch-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/watch-list/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animated</title>
+      <link>https://iiserk-movie.github.io/tags/animated/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://iiserk-movie.github.io/tags/animated/</guid>
       <description></description>
     </item>
   </channel>
