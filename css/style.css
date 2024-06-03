@@ -442,7 +442,7 @@ ul.pagination {
       .menu-main-mobile.open li:nth-of-type(6) {
         animation-delay: 0.35s; }
   .menu-main-mobile ul {
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-family: var(--font-family-heading);
     text-align: center;
     list-style: none;
