@@ -244,7 +244,7 @@ ul {
     @media (min-width: 767px) {
       .intro h1 {
         width: 80%;
-        font-size: 88px;
+        font-size: 72px;
         line-height: 94px;
         margin-bottom: 50px; } }
     .intro h1 strong {
