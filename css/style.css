@@ -392,11 +392,14 @@ ul.pagination {
     .menu-main {
       display: block; } }
   .menu-main > ul {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: flex-start; }
     .menu-main > ul > li {
-      margin-right: 10px; }
+      margin-right: 20px;
+      border-right: 1px solid white;
+      border-left: 1px solid white;
+      padding: 5px; }
       .menu-main > ul > li > a {
         display: inline-block;
         text-decoration: none; }
