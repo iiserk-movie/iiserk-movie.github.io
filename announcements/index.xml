@@ -6,7 +6,14 @@
     <description>Recent content in Announcements on IKMC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 23:32:47 +0530</lastBuildDate>
     <atom:link href="https://iiserk-movie.github.io/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Launch!</title>
+      <link>https://iiserk-movie.github.io/announcements/website-launch/</link>
+      <pubDate>Tue, 04 Jun 2024 23:32:47 +0530</pubDate>
+      <guid>https://iiserk-movie.github.io/announcements/website-launch/</guid>
+      <description>We are delighted to launch our brand-new IISER Kolkata Movie Club website!&#xA;This will be the hub for all things cinema in IISER Kolkata - a place where we host reviews, posters, short films, etc. produced by our community of cinephiles.&#xA;This will also be where we keep you updated about upcoming screenings, and news regarding the club and its activities.&#xA;Looking forward to a thriving and lively online community!</description>
+    </item>
   </channel>
 </rss>
